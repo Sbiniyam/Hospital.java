@@ -43,5 +43,4 @@ public class Hospital {
             System.out.println("You don't have appointment");
     }
 
-
     }
